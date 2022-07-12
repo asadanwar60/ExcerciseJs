@@ -1,4 +1,6 @@
-let str = "python";
+console.log("web page crawling");
+
+let str = "code";
 let links = document.links;
 console.log(links);
 let href;
